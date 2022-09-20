@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+Nome+é+Keny+Marcos;Seja+Bem-vindo!;+:%29)](https://git.io/typing-svg)
 
-<div>
-  <p align="center">
-    Sou Desenvolvedor Front End.
-  </p>
-
-</div>
 
 <div align="center">
   <a href="https://github.com/kennymarcos96">
