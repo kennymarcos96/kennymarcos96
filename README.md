@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+Nome+é+Keny+Marcos;Seja+Bem-vindo!;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+Nome+é+Keny+Marcos;Seja+Bem-vindo👩🏻‍💻!;+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -9,6 +9,15 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennymarcos96&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+ 
+
+<div align="center">
+  <p>
+ 👩🏻‍💻 Tenho 26 anos e sou formado em Contabilidade . Além disso, sou técnico em informática.
+ Após analizar melhor o mercado , resolvi me jogar no mundo da programação. Sempre gostei muito de tecnologia.Então estar aprendendo   sobre essa área está sendo muito gratificante.
+  </p>
+</div>
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,9 +31,13 @@
 
 <div align="center">
   <a href="https://www.instagram.com/kenny_marcos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/5594992743868?text=Ol%C3%A1%2Ctudo+bem%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
   <a href="https://www.linkedin.com/in/kenny-marcos-247a55250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:kennymarcos96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+
 
 <div align="center">
 
